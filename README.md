@@ -1,5 +1,9 @@
 # 🌤️ Weather Dashboard
 
+## Dashboard Preview
+
+![Weather Dashboard](screenshots/weather_dashboard.png)
+
 A real-time Weather Dashboard built using Python and Streamlit with the OpenWeather API.
 
 ## Features
